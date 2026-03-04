@@ -14,7 +14,7 @@ Isso facilita comparações, análises e organização do projeto.
 - Adicionar grupos ao Connect pelo menu de contexto
 - Navegar usando as teclas ↑ e ↓
 - Botões "Anterior" e "Próxima"
-- Atalho `Ctrl + L` para abrir/fechar o painel
+- Atalho `F9` para abrir/fechar o painel
 - Reordenar grupos por arrastar e soltar
 - Salva automaticamente o estado no projeto
 
