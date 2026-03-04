@@ -1,48 +1,81 @@
 # 🔗 Connect
 
-Plugin para o QGIS que permite navegação dinâmica entre grupos de camadas utilizando teclado, botões e alternância automática de visibilidade.
+Plugin para QGIS que permite navegar entre grupos de camadas de forma rápida e prática.
 
----
+## 📌 O que ele faz
 
-## 📌 Sobre o Projeto
-
-O **Connect** foi desenvolvido para otimizar fluxos de trabalho no QGIS, permitindo alternar rapidamente entre grupos de camadas sem precisar ativar e desativar manualmente cada grupo.
-
-O plugin ativa apenas um grupo por vez, facilitando:
-
-- Comparações visuais
-- Análises temáticas
-- Organização de cenários
-- Apresentações técnicas
-- Fluxos de revisão cartográfica
+O Connect permite alternar entre grupos da árvore de camadas, ativando apenas um grupo por vez.  
+Isso facilita comparações, análises e organização do projeto.
 
 ---
 
 ## 🚀 Funcionalidades
 
-✔ Adicionar grupos via menu de contexto  
-✔ Navegação com setas ↑ ↓  
-✔ Botões "Anterior" e "Próxima"  
-✔ Atalho global `Ctrl + L` para abrir/fechar painel  
-✔ Reordenação de grupos por drag-and-drop  
-✔ Indicador visual de grupo ativo  
-✔ Persistência automática no projeto  
-✔ Integração com barra de status  
+- Adicionar grupos ao Connect pelo menu de contexto
+- Navegar usando as teclas ↑ e ↓
+- Botões "Anterior" e "Próxima"
+- Atalho `Ctrl + L` para abrir/fechar o painel
+- Reordenar grupos por arrastar e soltar
+- Salva automaticamente o estado no projeto
 
 ---
 
-## 🎮 Como Usar
+## 🎮 Como usar
 
-### 1️⃣ Adicionar Grupos
-- Clique com o botão direito em um grupo na árvore de camadas
-- Selecione **"Connect: Adicionar grupo"**
+1. Clique com o botão direito em um grupo na árvore de camadas  
+2. Selecione **"Connect: Adicionar grupo"**  
+3. Use as setas do teclado para navegar  
 
-### 2️⃣ Navegar
-- Use as teclas **↑ e ↓**
-ou  
-- Use os botões **Anterior** e **Próxima**
+O plugin irá ocultar o grupo atual e ativar o próximo automaticamente.
 
-O plugin ocultará o grupo atual e ativará o próximo automaticamente.
+---
 
-### 3️⃣ Abrir/Fechar o Painel
-Pressione:
+## ⚙ Compatibilidade
+
+- QGIS 3.22 ou superior
+
+---
+
+## 👤 Autor
+
+Ana carolina Andrade  
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
